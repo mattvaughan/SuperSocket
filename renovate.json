@@ -11,6 +11,7 @@
   "lockFileMaintenance": {
     "enabled": true
   },
+  "includeForks": true,
   "$schema": "https://docs.renovatebot.com/renovate-schema.json"
 }
 
