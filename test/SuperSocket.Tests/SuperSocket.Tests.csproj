@@ -16,7 +16,7 @@
     <ProjectReference Include="..\..\src\SuperSocket.GZip\SuperSocket.GZip.csproj" />
   </ItemGroup>
   <ItemGroup>  
-    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />  
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />  
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="$(MSExtensionsVersion)" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="$(MSExtensionsVersion)" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="$(MSExtensionsVersion)" />
